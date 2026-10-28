@@ -1,0 +1,33 @@
+roll_no,student_name,subject,total_classes,present,absent,excused,attendance_pct,status,classes_needed_75pct,last_present_date,consecutive_absences,attendance_flag,attendance_bin,attendance_category,base_name
+4MW23AD50,SRAJAN  S,Data Science & GenAI - 3nd Yr- AI&DS,11,0,11,0,0.0,Critical,33 more,Never,11,Defaulter,Critical,Poor,SRAJAN
+4MW24AD001,ADITHYA S POOJARY,Data Science & GenAI - 3nd Yr- AI&DS,11,7,4,0,0.64,Critical,5 more,2026-10-07,0,Defaulter,Warning,Average,ADITHYA
+4MW24AD005,ARPITHA M THANTRY,Data Science & GenAI - 3nd Yr- AI&DS,11,8,3,0,0.73,Critical,1 more,2026-10-07,0,Defaulter,Warning,Average,ARPITHA
+4MW24AD009,BHARATHRAJ A NAYAK,Data Science & GenAI - 3nd Yr- AI&DS,11,4,7,0,0.36,Critical,17 more,2026-10-05,1,Defaulter,Critical,Poor,BHARATHRAJ
+4MW24AD010,BHEEMA KATTIMANI,Data Science & GenAI - 3nd Yr- AI&DS,11,8,3,0,0.73,Critical,1 more,2026-10-07,0,Defaulter,Warning,Average,BHEEMA
+4MW24AD011,BINDU,Data Science & GenAI - 3nd Yr- AI&DS,11,6,5,0,0.55,Critical,9 more,2026-10-07,0,Defaulter,Warning,Poor,BINDU
+4MW24AD012,CHIRAG N KUNDER,Data Science & GenAI - 3nd Yr- AI&DS,11,8,3,0,0.73,Critical,1 more,2026-10-07,0,Defaulter,Warning,Average,CHIRAG
+4MW24AD014,GOURISH VENKATRAMAN MOGER,Data Science & GenAI - 3nd Yr- AI&DS,11,7,4,0,0.64,Critical,5 more,2026-10-07,0,Defaulter,Warning,Average,GOURISH
+4MW24AD017,KISHAN GANAPATI HEGDE,Data Science & GenAI - 3nd Yr- AI&DS,11,8,3,0,0.73,Critical,1 more,2026-10-07,0,Defaulter,Warning,Average,KISHAN
+4MW24AD018,MANISH THINGALAYA,Data Science & GenAI - 3nd Yr- AI&DS,11,7,4,0,0.64,Critical,5 more,2026-10-07,0,Defaulter,Warning,Average,MANISH
+4MW24AD019,MOHAMMED SUHAN,Data Science & GenAI - 3nd Yr- AI&DS,11,7,4,0,0.64,Critical,5 more,2026-10-07,0,Defaulter,Warning,Average,MOHAMMED
+4MW24AD020,MOHAMMED AFREED,Data Science & GenAI - 3nd Yr- AI&DS,11,7,4,0,0.64,Critical,5 more,2026-10-07,0,Defaulter,Warning,Average,MOHAMMED
+4MW24AD021,MOHAMMED AWAD TONSE,Data Science & GenAI - 3nd Yr- AI&DS,11,8,3,0,0.73,Critical,1 more,2026-10-07,0,Defaulter,Warning,Average,MOHAMMED
+4MW24AD022,MONISHA DEVADIGA,Data Science & GenAI - 3nd Yr- AI&DS,11,8,3,0,0.73,Critical,1 more,2026-10-07,0,Defaulter,Warning,Average,MONISHA
+4MW24AD024,NISHANTH SHETTY,Data Science & GenAI - 3nd Yr- AI&DS,11,7,4,0,0.64,Critical,5 more,2026-10-07,0,Defaulter,Warning,Average,NISHANTH
+4MW24AD025,PAVAN BHAT,Data Science & GenAI - 3nd Yr- AI&DS,11,8,3,0,0.73,Critical,1 more,2026-10-07,0,Defaulter,Warning,Average,PAVAN
+4MW24AD026,PAVAN S POOJARY,Data Science & GenAI - 3nd Yr- AI&DS,11,8,3,0,0.73,Critical,1 more,2026-10-07,0,Defaulter,Warning,Average,PAVAN
+4MW24AD027,PRAJWAL,Data Science & GenAI - 3nd Yr- AI&DS,11,3,8,0,0.27,Critical,21 more,2026-10-05,1,Defaulter,Critical,Poor,PRAJWAL
+4MW24AD031,PRAVEEN KUMAR N,Data Science & GenAI - 3nd Yr- AI&DS,10,3,7,0,0.3,Critical,18 more,2026-10-07,0,Defaulter,Critical,Poor,PRAVEEN
+4MW24AD032,PREETH SHETTY,Data Science & GenAI - 3nd Yr- AI&DS,10,5,5,0,0.5,Critical,10 more,2026-10-05,1,Defaulter,Critical,Poor,PREETH
+4MW24AD037,RISHAN FRANCIS MENEZES,Data Science & GenAI - 3nd Yr- AI&DS,10,0,10,0,0.0,Critical,30 more,Never,10,Defaulter,Critical,Poor,RISHAN
+4MW24AD038,RITHESH R,Data Science & GenAI - 3nd Yr- AI&DS,10,5,5,0,0.5,Critical,10 more,2026-10-05,1,Defaulter,Critical,Poor,RITHESH
+4MW24AD041,SAMANA G RAO,Data Science & GenAI - 3nd Yr- AI&DS,10,7,3,0,0.7,Critical,2 more,2026-10-07,0,Defaulter,Warning,Average,SAMANA
+4MW24AD042,SANJAN SHETTY,Data Science & GenAI - 3nd Yr- AI&DS,10,6,4,0,0.6,Critical,6 more,2026-10-05,1,Defaulter,Warning,Average,SANJAN
+4MW24AD046,SHARANU PATIL,Data Science & GenAI - 3nd Yr- AI&DS,10,0,10,0,0.0,Critical,30 more,Never,10,Defaulter,Critical,Poor,SHARANU
+4MW24AD054,UJWAL. K,Data Science & GenAI - 3nd Yr- AI&DS,10,0,10,0,0.0,Critical,30 more,Never,10,Defaulter,Critical,Poor,UJWAL.
+4MW24AD057,VIGHNESH,Data Science & GenAI - 3nd Yr- AI&DS,10,6,4,0,0.6,Critical,6 more,2026-10-07,0,Defaulter,Warning,Average,VIGHNESH
+4MW24AD058,ZEENATH ZIYAN,Data Science & GenAI - 3nd Yr- AI&DS,10,7,3,0,0.7,Critical,2 more,2026-10-07,0,Defaulter,Warning,Average,ZEENATH
+4MW24AD060,AMITH G PALANDYE,Data Science & GenAI - 3nd Yr- AI&DS,10,0,10,0,0.0,Critical,30 more,Never,10,Defaulter,Critical,Poor,AMITH
+4MW24AD061,AMOGH BHASKAR NAIK,Data Science & GenAI - 3nd Yr- AI&DS,10,5,5,0,0.5,Critical,10 more,2026-10-07,0,Defaulter,Critical,Poor,AMOGH
+4MW24AD062,CHANDISH,Data Science & GenAI - 3nd Yr- AI&DS,10,6,4,0,0.6,Critical,6 more,2026-10-05,1,Defaulter,Warning,Average,CHANDISH
+4MW25AD400,SAMPATH S HEBBAR,Data Science & GenAI - 3nd Yr- AI&DS,10,1,9,0,0.1,Critical,26 more,2026-09-02,8,Defaulter,Critical,Poor,SAMPATH
